@@ -1,0 +1,58 @@
+21:11:53:463 2016.06.08 KMS GUI ELDI 37.1.0.0
+Official Site: 
+http://forums.mydigitallife.info/forums/51-KMS-tools
+KMSpico v10.2.0
+Windows Detected: Windows 10 Enterprise : Enterprise : 6.3 : 10586
+
+21:11:53:476 Loading SECOH-QAD...
+21:11:53:479 Set Registry : Image File Execution Options\SppExtComObj.exe:Debugger
+21:11:53:479 Using host Forward: 10.237.220.110:1688
+21:11:53:479 Using host Local: 127.232.170.139:1688
+21:11:53:479 Using method: SECOH-QAD
+21:11:53:506 Time Start: 2016/6/8 21:11:53
+21:11:53:509 Checking Internet Connection...
+21:11:53:655 Windows Detected: Windows 10 Enterprise : Enterprise : 6.3 : 10586
+21:11:53:656 Using host Forward: 10.237.220.110:1688
+21:11:53:656 Using host Local: 127.232.170.139:1688
+21:11:53:656 Using method: SECOH-QAD
+21:11:53:672 Opening Firewall Port...
+21:11:53:732 Opening Firewall App...
+21:11:53:870 KMSEmulator Port: 1688
+21:11:53:872 Get Registry : SYSTEM\CurrentControlSet\Services\sppsvc:Start
+21:11:53:878 KMSEmulator running port: 1688
+21:11:54:263 Office 2016 Found: C:\Program Files\Microsoft Office\root\Office16
+21:11:54:264 Office 2010 Skipped
+21:11:54:264 Office 2013 Skipped
+21:11:54:265 Loading OEM Key Dumper...
+21:11:54:265 Key found on MSDM: -YG92K
+21:11:55:358 Installing Key: -YG92K
+21:11:55:503 No Internet Connection Detected
+21:11:55:651 Error: C004F069 InstallProductKey
+21:11:55:657 Found Office 2016 Products: 1
+21:11:55:659 Name: Office 16, Office16ProPlusVL_KMS_Client edition
+Description: Office 16, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 259185
+LicenseStatus: 1
+PartialProductKey: WFG99
+GenuineStatus: 0
+
+21:11:55:715 DisableKeyManagementServiceHostCaching 0
+21:11:55:717 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServiceName
+21:11:55:717 Found Windows Products: 1
+21:11:55:717 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServicePort
+21:11:55:717 Name: Windows(R), Enterprise edition
+Description: Windows(R) Operating System, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 259185
+LicenseStatus: 1
+PartialProductKey: 2YT43
+GenuineStatus: 0
+
+21:11:55:717 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServiceName
+21:11:55:718 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServicePort
+21:11:55:718 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServiceName
+21:11:55:718 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServicePort
+21:11:55:719 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServiceName
+21:11:55:723 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServicePort
+21:11:55:788 DisableKeyManagementServiceHostCaching 0
+21:11:55:789 Set Registry : SoftwareProtectionPlatform:KeyManagementServiceName
+21:11:55:789 Set Registry : SoftwareProtectionPlatform:KeyManagementServicePort
